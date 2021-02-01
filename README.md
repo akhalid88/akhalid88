@@ -15,6 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=dark)
 ![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=radical)
+![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=merko)
+![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=gruvbox)
+![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=tokyonight)
+![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=onedark)
+![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=cobalt)
+![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=synthwave)
+![Akhalid88's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhalid88&show_icons=true&theme=dracula)
+
+
+
+
+
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhalid88&layout=compact)](https://github.com/akhalid88/github-readme-stats)
